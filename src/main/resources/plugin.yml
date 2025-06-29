@@ -1,0 +1,4 @@
+name: KBBSToper-RE
+version: '${version}'
+main: mc233.kbbstoperre.KBBSToper_RE
+api-version: '1.21'
